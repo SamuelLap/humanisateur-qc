@@ -8,7 +8,7 @@ C'est une adaptation québécoise de [blader/humanizer](https://github.com/blade
 
 ### Claude.ai (web, mobile) et Claude Desktop
 
-1. Télécharge le fichier `humanisateur-qc.zip` (ou compresse le dossier `humanisateur-qc/`, avec `SKILL.md` à l'intérieur).
+1. Télécharge [`humanisateur-qc.zip`](https://github.com/SamuelLap/humanisateur-qc/raw/main/humanisateur-qc.zip) (ou compresse le dossier `humanisateur-qc/`, avec `SKILL.md` à l'intérieur).
 2. Ouvre Personnaliser → Skills (ou Paramètres → Capacités → Skills).
 3. Clique sur « Téléverser un skill » et choisis le .zip.
 
